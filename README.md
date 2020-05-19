@@ -1,3 +1,3 @@
 # transfer_learning_mobileNet
 
-![GitHub Logo](/transfer_learning_mobileNet/code_image/1.JPG)
+![GitHub Logo](https://github.com/sanjaytripathi97/transfer_learning_mobileNet/blob/master/code_image/1.JPG)
